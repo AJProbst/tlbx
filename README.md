@@ -14,3 +14,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # Readme
 Scripts have dependencies, which include the ruby gems "trollop", "ox", "moneta", and "nu" (https://github.com/banfieldlab/nu).
 Few scripts also need the software pullseq (https://github.com/bcthomas/pullseq).
+For questions please email alexander.j.probst@gmail.com
