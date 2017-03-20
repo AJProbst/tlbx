@@ -1,5 +1,5 @@
 # tlbx
-Toolbox for simplest manipulation of fasta files.
+Toolbox for the simplest manipulations of fasta files.
 
 
 The MIT License (MIT)
