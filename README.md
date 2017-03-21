@@ -16,4 +16,4 @@ Scripts have dependencies, which include the ruby gems "trollop", "ox", "moneta"
 Few scripts also need the software pullseq (https://github.com/bcthomas/pullseq).
 For questions please email alexander.j.probst@gmail.com
 
-ScaffCov2OTU.rb is a parser for rpS3_trckr https://github.com/AJProbst/rpS3_trckr/edit/master/README.md and requires additionally the gem "csv". It is not a stand-alone software.
+ScaffCov2OTU.rb is a parser for rpS3_trckr https://github.com/AJProbst/rpS3_trckr and requires additionally the gem "csv". It is not a stand-alone software.
